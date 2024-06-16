@@ -1,0 +1,9 @@
+# Syntax: KEYWORD [TAB] KEYWORD1 [TAB] KEYWORD2
+# KEYWORD is the keyword as it appears in the code
+# KEYWORD1 is the type, such as KEYWORD1, KEYWORD2, LITERAL1, LITERAL2, or LITERAL3
+# KEYWORD2 is the value or additional information (optional)
+
+SSM_Stepper    KEYWORD1
+runStepper     KEYWORD2
+Stepper_init   KEYWORD2
+get_cntPtn     KEYWORD2
